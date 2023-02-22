@@ -1,2 +1,2 @@
-# -3-calculatorProject
+# calculatorProject
 Vanilla JavaScript Calculator 
