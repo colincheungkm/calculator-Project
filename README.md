@@ -1,2 +1,1 @@
-# calculatorProject
-Vanilla JavaScript Calculator 
+
